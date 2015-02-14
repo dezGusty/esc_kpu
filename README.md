@@ -24,3 +24,11 @@ Luckily, it is possible to programatically insert key events and make it seem li
 ## How to use it
 Download the pre-built binaries or build the application yourself from source
 (Currently only providing project files for Visual Studio 2013 Express).
+
+Rename your old executable named "ATKRecHelp.exe" into something else (E.g. "ATKRecHelp_renamed.exe"
+You would typically find this in: "c:\Program Files (x86)\ASUS\ATK Package\ATK Hotkey"
+
+Copy the "esc_kpu.exe" to the location where "ATKRecHelp.exe" was.
+Rename "esc_kpu.exe" to "ATKRecHelp.exe".
+
+Now you can press the key accidentally and have it act like the Escape key.
